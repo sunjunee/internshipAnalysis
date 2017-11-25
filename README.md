@@ -2,6 +2,8 @@
 
 使用的工具是python，用到了requests和Beautifulsoup来进行网页爬取，jieba进行分词处理。
 
+一些总结放在: <a href="https://sunjunee.github.io/2017/09/25/intership-analysis/">https://sunjunee.github.io/2017/09/25/intership-analysis/</a>
+
 ## 爬虫
 这里想爬的是实习僧网站上，所有互联网相关的实习招聘信息。打开网站可以看到目录：
 
